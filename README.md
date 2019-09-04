@@ -6,7 +6,7 @@
 
 ### Visual
 
-- [Bootswatch](https://getbootstrap.com) para o visual geral da aplicação
+- [Bootstrap](https://getbootstrap.com) para o visual geral da aplicação
 
 ### Frameworks
 

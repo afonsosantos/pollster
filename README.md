@@ -10,7 +10,7 @@
 
 ### Frameworks
 
-- [Django](https://www.fancyapps.com/fancybox/3/) para a base de toda a aplicação
+- [Django](https://www.djangoproject.com/) para a base de toda a aplicação
 
 <!-- ### Hospedagem
 

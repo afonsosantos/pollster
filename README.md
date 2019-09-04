@@ -12,9 +12,9 @@
 
 - [Django](https://www.fancyapps.com/fancybox/3/) para a base de toda a aplicação
 
-### Hospedagem
+<!-- ### Hospedagem
 
-- [Netlify](https://www.netlify.com/) para hospedagem do site
+- [Netlify](https://www.netlify.com/) para hospedagem do site -->
 
 ## Agradecimentos
 
